@@ -22,3 +22,11 @@ package-lock.json
 # MacOS stuff
 .DS_Store
 .vscode
+
+# Custom changes
+mindeye/derivatives/
+mindeye/conf/config*.json
+functionalConnectivity/
+induction/
+sample/
+template/
